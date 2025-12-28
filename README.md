@@ -2,8 +2,6 @@
 
 # 👋, plokich
 
----
-
 ### 14 yo reverse engineer from 🇷🇺
 
 </div>
